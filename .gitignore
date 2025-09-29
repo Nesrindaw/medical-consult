@@ -1,0 +1,19 @@
+# Python
+*.pyc
+__pycache__/
+.venv/
+.env
+
+# Django
+*.log
+local_settings.py
+media/
+staticfiles/
+
+# Node
+node_modules/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
